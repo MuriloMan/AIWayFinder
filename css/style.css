@@ -1,0 +1,62 @@
+.learningField {
+  width: 1200px;
+  height: 200px;
+  background-color: #ececec;
+  border: 1px solid black;
+}
+
+.block-1 {
+  width: 20px;
+  height: 160px;
+  top: 30px;
+  left: 120px;
+}
+
+.block-2 {
+  width: 20px;
+  height: 150px;
+  top: 60px;
+  left: 300px;
+}
+
+.block-3 {
+  width: 20px;
+  height: 150px;
+  top: 5px;
+  left: 560px;
+}
+
+.block-4 {
+  width: 20px;
+  height: 150px;
+  top: 60px;
+  left: 900px;
+}
+
+.block {
+  position: absolute;
+  background-color: #ececec;
+  border: 1px solid black;
+}
+
+.salvation {
+  width: 10px;
+  height: 10px;
+  background-color: blue;
+  left: 1200px;
+  top:100px;
+  position: absolute;
+}
+
+.spawn-lifes{
+  width:40px;
+  height:40px;
+  background-color:green;
+}
+
+.life-forms{
+  width:5px;
+  height:5px;
+  position:absolute;
+  background-color:red;
+}
